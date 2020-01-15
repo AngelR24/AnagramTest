@@ -1,0 +1,11 @@
+C:\Users\Angel Ruiz\Desktop\ExamenFinal\Anagram\Anagram\bin\Debug\netcoreapp3.0\Anagram.exe
+C:\Users\Angel Ruiz\Desktop\ExamenFinal\Anagram\Anagram\bin\Debug\netcoreapp3.0\Anagram.deps.json
+C:\Users\Angel Ruiz\Desktop\ExamenFinal\Anagram\Anagram\bin\Debug\netcoreapp3.0\Anagram.runtimeconfig.json
+C:\Users\Angel Ruiz\Desktop\ExamenFinal\Anagram\Anagram\bin\Debug\netcoreapp3.0\Anagram.runtimeconfig.dev.json
+C:\Users\Angel Ruiz\Desktop\ExamenFinal\Anagram\Anagram\bin\Debug\netcoreapp3.0\Anagram.dll
+C:\Users\Angel Ruiz\Desktop\ExamenFinal\Anagram\Anagram\bin\Debug\netcoreapp3.0\Anagram.pdb
+C:\Users\Angel Ruiz\Desktop\ExamenFinal\Anagram\Anagram\obj\Debug\netcoreapp3.0\Anagram.csprojAssemblyReference.cache
+C:\Users\Angel Ruiz\Desktop\ExamenFinal\Anagram\Anagram\obj\Debug\netcoreapp3.0\Anagram.AssemblyInfoInputs.cache
+C:\Users\Angel Ruiz\Desktop\ExamenFinal\Anagram\Anagram\obj\Debug\netcoreapp3.0\Anagram.AssemblyInfo.cs
+C:\Users\Angel Ruiz\Desktop\ExamenFinal\Anagram\Anagram\obj\Debug\netcoreapp3.0\Anagram.dll
+C:\Users\Angel Ruiz\Desktop\ExamenFinal\Anagram\Anagram\obj\Debug\netcoreapp3.0\Anagram.pdb
